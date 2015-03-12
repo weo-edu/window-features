@@ -1,6 +1,6 @@
 {
   "name": "window-features",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Takes an object and returns a properly formed windowFeatures string for use in calls to window.open",
   "main": "index.js",
   "scripts": {
