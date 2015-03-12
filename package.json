@@ -1,0 +1,23 @@
+{
+  "name": "window-features",
+  "version": "0.1.0",
+  "description": "Takes an object and returns a properly formed windowFeatures string for use in calls to window.open",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weo-edu/window-features"
+  },
+  "keywords": [
+    "window",
+    "features"
+  ],
+  "author": "ashaffer (http://github.com/ashaffer)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weo-edu/window-features/issues"
+  },
+  "homepage": "https://github.com/weo-edu/window-features"
+}
